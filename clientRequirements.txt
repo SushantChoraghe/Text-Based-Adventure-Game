@@ -1,0 +1,22 @@
+/*
+
+Project from Client:
+
+An adventure gaming startup company wants to create a simple Text-Based Adventure Game as a prototype
+for their future game development projects. The game should allow the player to explore different areas, 
+interact with objects, and make decisions that affect the outcome of the game. The client wants this game 
+to be purely text-based and simple for players to understand but with engaging gameplay and a variety of choices.
+
+
+
+Client's Expectations:
+
+1. The game should be easy to navigate through text commands.
+2. The game world should have at least 5 different locations (e.g., forest, cave, village, castle, dungeon).
+3. Players should be able to move between locations and perform actions such as picking up items or engaging in simple combat.
+4. The game should provide feedback on each decision, whether it’s moving to a new location, picking up items, or fighting enemies.
+5. Players should have a limited number of attempts or resources (like health points) to make progress, which adds challenge to the game.
+6. Players should be able to win or lose the game based on their choices.
+7. The game should be replayable with some random elements to keep it fresh.
+
+*/
